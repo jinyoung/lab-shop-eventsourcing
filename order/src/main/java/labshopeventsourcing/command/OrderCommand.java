@@ -15,7 +15,7 @@ public class OrderCommand {
     private String productId;
     private Integer qty;
     private String customerId;
-    private Double amount;
+    private BigDecimal amount;
     private String status;
     private String address;
 

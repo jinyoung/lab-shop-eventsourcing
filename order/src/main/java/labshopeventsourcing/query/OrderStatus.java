@@ -9,7 +9,7 @@ public class OrderStatus {
 
         private Long id;
         private String status;
-        private Long amount;
+        private Double amount;
         private Long qty;
         private String productId;
 
