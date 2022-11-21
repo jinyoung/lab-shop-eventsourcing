@@ -1,0 +1,14 @@
+server:
+  port: 8080
+---
+
+spring:
+  profiles: default
+
+server:
+  port: 8082
+---
+
+spring:
+  profiles: docker
+
